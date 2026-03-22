@@ -1,0 +1,61 @@
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:        # allows manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/header.svg
+          config_display: large
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/repositories.svg
+          plugin_repositories: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/acti_comm.svg
+          plugin_activity: yes
+          plugin_community_statistics: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/iso_calender.svg
+          plugin_isocalendar: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/langs_used.svg
+          plugin_languages: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/notable_contributions.svg
+          plugin_notable: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: store
+          output_metrics_to: metrics/achievements.svg
+          plugin_achievements: yes
