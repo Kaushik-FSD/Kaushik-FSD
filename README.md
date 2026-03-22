@@ -5,7 +5,7 @@
   <body>
     <h2>Hi there, I'm Kaushik 👋</h2>
     <p>
-      <a href="mailto:your.email@gmail.com">
+      <a href="mailto:mandalkaushik.work@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
       <a href="https://www.linkedin.com/in/your-linkedin">
@@ -85,9 +85,6 @@
         <img align="top" width="50%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/repositories.svg" />
       </a>
       <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="49%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/acti_comm.svg" />
-      </a>
-      <a href="https://github.com/Kaushik-FSD">
         <img align="top" width="50%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/iso_calender.svg" />
       </a>
       <a href="https://github.com/Kaushik-FSD">
@@ -95,9 +92,6 @@
       </a>
       <a href="https://github.com/Kaushik-FSD">
         <img align="top" width="49%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/notable_contributions.svg" />
-      </a>
-      <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="49%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/achievements.svg" />
       </a>
     </details>
     </p>
