@@ -8,17 +8,15 @@
       <a href="mailto:mandalkaushik.work@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
-      <a href="https://www.linkedin.com/in/your-linkedin">
+      <a href="https://www.linkedin.com/in/mandal-kaushik/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://twitter.com/your-twitter">
+      <a href="https://x.com/KaushikMandal59">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
       </a>
     </p>
     <p>
-      I'm a backend developer passionate about building scalable, production-grade systems.<br>
-      I love crafting multi-tenant SaaS platforms, distributed architectures, and developer tooling.<br><br>
-      Currently working with <strong>TypeScript, Node.js, Fastify, PostgreSQL, Redis &amp; Docker</strong> — coming from a strong <strong>Java / Spring Boot</strong> foundation.
+      Hi, I'm a Kaushik, a software engineer specialized in backend development and building scalable, production-grade systems.<br><br>
     </p>
     <p>
     <details>
@@ -35,13 +33,6 @@
           <ul>
             <li>
               <a href="https://github.com/Kaushik-FSD/SecureNote">SecureNote</a>: A secure notes REST API built with Express, TypeScript, PostgreSQL &amp; Prisma. Implements JWT authentication, custom error handling pipelines, and clean layered architecture.
-            </li>
-          </ul>
-        </li>
-        <li>Upcoming
-          <ul>
-            <li>
-              <strong>LedgerX</strong>: A high-integrity transaction engine focused on distributed systems, concurrency control, and financial-grade consistency — built with Fastify &amp; TypeScript.
             </li>
           </ul>
         </li>
@@ -77,21 +68,16 @@
     <p>
     <details>
       <summary>Github Metrics</summary>
+      <br>
       <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="50%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/header.svg" />
-      </a>
-      <br />
-      <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="50%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/repositories.svg" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushik-FSD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
       </a>
       <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="50%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/iso_calender.svg" />
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushik-FSD&theme=tokyonight&hide_border=true" />
       </a>
+      <br><br>
       <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="49%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/langs_used.svg" />
-      </a>
-      <a href="https://github.com/Kaushik-FSD">
-        <img align="top" width="49%" src="https://Kaushik-FSD.github.io/Kaushik-FSD/metrics/notable_contributions.svg" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-FSD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
       </a>
     </details>
     </p>
