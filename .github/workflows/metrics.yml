@@ -24,6 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/repositories.svg
           output_action: store
+          base: ""
           plugin_repositories: yes
 
       - name: Activity & Community
@@ -32,6 +33,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/acti_comm.svg
           output_action: store
+          base: ""
           plugin_activity: yes
 
       - name: Isometric Calendar
@@ -40,6 +42,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/iso_calender.svg
           output_action: store
+          base: ""
           plugin_isocalendar: yes
 
       - name: Languages Used
@@ -48,7 +51,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/langs_used.svg
           output_action: store
+          base: ""
           plugin_languages: yes
+          plugin_languages_indepth: yes
 
       - name: Notable Contributions
         uses: lowlighter/metrics@latest
@@ -56,6 +61,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/notable_contributions.svg
           output_action: store
+          base: ""
           plugin_notable: yes
 
       - name: Achievements
@@ -64,4 +70,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/achievements.svg
           output_action: store
+          base: ""
           plugin_achievements: yes
