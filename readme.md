@@ -32,14 +32,6 @@ After hours? I'm deep in **Node.js + Fastify** land, building personal projects 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| 🏢 **InfraCore** | Production-ready multi-tenant SaaS backend | Fastify · TypeScript · PostgreSQL · Redis · BullMQ |
-| 🤖 **StandupBot** | AI-powered standup CLI with multi-provider LLM support | Node.js · Fastify · Gemini · Claude · Redis |
-
----
 
 ## 📬 Let's Connect
 
