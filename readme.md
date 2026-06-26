@@ -2,7 +2,7 @@
 
 > *Backend engineer by day, AI tinkerer by night, caffeine-powered always ☕*
 
-I've spent 4+ years in the trenches of production backend systems — writing service logic that doesn't fall apart at 3am, designing schemas that scale, and surviving data migrations that probably shouldn't have worked but did. 💀
+I have spent 4+ years in the trenches of production backend systems — writing service logic that doesn't fall apart at 3am, designing schemas that scale, and surviving data migrations that probably shouldn't have worked but did. 💀
 
 My professional home is **Java & Spring Boot**, where I work on large-scale services, cloud transitions, and the kind of architecture decisions that haunt you in your sleep.
 
